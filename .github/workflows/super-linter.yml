@@ -16,7 +16,7 @@ on:
   pull_request:
     branches: ["main"]
 jobs:
-  run-lint:
+  run-github-super-linter:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
@@ -37,5 +37,6 @@ jobs:
           VALIDATE_JAVASCRIPT_ES: false
           VALIDATE_JSX: false
           VALIDATE_JSON: false
+          VALIDATE_JSCPD: false
           VALIDATE_TYPESCRIPT_ES: false
           VALIDATE_YAML: false
