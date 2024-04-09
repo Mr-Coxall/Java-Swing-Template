@@ -7,10 +7,6 @@
 * @since   2020-01-01
 */
 
-/**
-* This is the standard "Hello, World!" program in Java Swing.
-*/
-
 import javax.swing.JButton;
 import javax.swing.JFrame;
 
