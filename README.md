@@ -1,6 +1,6 @@
 # Java Swing Template
 
-This template lets you code Java Swing projects in Codespaces and have a "window" to show the resulting GUI in.
+This template lets you code Java Swing projects in Codespaces and have a "window" to show the resulting GUI in. To create your own GitHub Repo and Codespace from this template, click on the green "Use this template" button above and to the right. Then select "Create repository from template" and fill in the name you would like your new Gitub Repo to have.
 
 **NOTE**: This Codespace will take over 4 minutes to "build" the very first time, please be patient!
 
