@@ -1,5 +1,5 @@
 /*
- * Main.java shows the "Hello, World!" program in Java Swing. 
+ * Main.java shows the "Hello, World!" program in Java Swing.
  */
 import javax.swing.*;
 
