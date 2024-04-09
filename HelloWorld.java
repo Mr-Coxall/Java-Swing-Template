@@ -11,7 +11,6 @@ import javax.swing.JButton;
 import javax.swing.JFrame;
 
 final class HelloWorld {
-
     /**
     * The starting main() function.
     *
