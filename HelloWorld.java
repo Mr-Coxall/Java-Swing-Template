@@ -13,18 +13,6 @@ import javax.swing.JFrame;
 final class HelloWorld {
 
     /**
-    * Prevent instantiation.
-    * Throw an exception IllegalStateException.
-    * if this is ever called
-    *
-    * @throws IllegalStateException if this is ever called
-    *
-    */
-    private HelloWorld() {
-        throw new IllegalStateException("Cannot be instantiated");
-    }
-
-    /**
     * The starting main() function.
     *
     * @param args No args will be used
