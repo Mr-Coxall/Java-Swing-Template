@@ -11,8 +11,8 @@
 * This is the standard "Hello, World!" program in Java Swing.
 */
 
-import javax.swing.JFrame;
 import javax.swing.JButton;
+import javax.swing.JFrame;
 
 final class HelloWorld {
 
