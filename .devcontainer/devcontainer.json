@@ -11,11 +11,12 @@
     "customizations": {
       "vscode": {
         "extensions": [
-          "hediet.vscode-drawio",
-          "oderwat.indent-rainbow",
-          "PKief.material-icon-theme",
-          "sohamkamani.code-eol",
-          "vscjava.vscode-java-pack"
+            "hediet.vscode-drawio",
+            "oderwat.indent-rainbow",
+            "PKief.material-icon-theme",
+            "sohamkamani.code-eol",
+            "streetsidesoftware.code-spell-checker",
+            "vscjava.vscode-java-pack"
         ],
         "settings": {
           "editor.autoClosingQuotes": "always",
